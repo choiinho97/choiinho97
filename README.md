@@ -18,7 +18,7 @@ Here are some ideas to get you started:
    
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=choiinho97&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farm/choiinho97"
+  src="https://render.gitanimals.org/farms/choiinho97"
   width="100%"
   height="300"
 />
